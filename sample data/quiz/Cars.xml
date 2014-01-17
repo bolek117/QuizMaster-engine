@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizes>
+	<quiz id="0" name="Cars">
+		<question id="1" text="Fastest car on the world is...">
+			<answer id="1" text="Fiat 126p" isProper="0"/>
+			<answer id="2" text="Bugatti Veyron SuperSport" isProper="1"/>
+			<answer id="3" text="Porsche Carrera" isProper="0"/>
+			<answer id="4" text="Boeing 747" isProper="0"/>
+		</question>
+		<question id="2" text="Power of engine is...">
+			<answer id="1" text="RPM" isProper="0"/>
+			<answer id="2" text="Nm" isProper="0"/>
+			<answer id="3" text="kW" isProper="1"/>
+			<answer id="4" text="CO2 per km" isProper="0"/>
+			<answer id="5" text="hp" isProper="1"/>
+		</question>
+		<question id="3" text="Audi is an brand from">
+			<answer id="1" text="Germany" isProper="1"/>
+			<answer id="2" text="Austria" isProper="0"/>
+			<answer id="3" text="Italy" isProper="0"/>
+			<answer id="4" text="France" isProper="0"/>
+		</question>
+		<question id="4" text="Who is inventor of gasoline-powered automobile">
+			<answer id="1" text="Rudolf Diesel" isProper="0"/>
+			<answer id="2" text="Carl Benz" isProper="1"/>
+			<answer id="3" text="Albert Einstein" isProper="0"/>
+		</question>
+		<question id="5" text="End of Paris-Dakar race was oryginaly located in">
+			<answer id="1" text="Poland" isProper="0"/>
+			<answer id="2" text="Argentina" isProper="0"/>
+			<answer id="3" text="France" isProper="0"/>
+			<answer id="4" text="Senegal" isProper="1"/>
+		</question>
+	</quiz>
+</quizes>

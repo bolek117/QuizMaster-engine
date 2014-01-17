@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+ <user password="Admin1" isAdmin="1" nickname="Admin">
+  <quiz points="5" text="Cars"/>
+  <quiz points="100" text="Quiz3"/>
+  <quiz points="7" text="Testowy quiz"/>
+ </user>
+ <user password="a" isAdmin="0" nickname="a">
+  <quiz points="3" text="Cars"/>
+  <quiz points="75" text="Quiz3"/>
+  <quiz points="8" text="Testowy quiz"/>
+ </user>
+ <user password="pass" isAdmin="0" nickname="Erwin">
+  <quiz points="55" text="Quiz3"/>
+  <quiz points="15" text="Testowy quiz"/>
+ </user>
+ <user password="pass" isAdmin="0" nickname="Roman"/>
+ <user password="" isAdmin="0" nickname="New user 5"/>
+</users>
